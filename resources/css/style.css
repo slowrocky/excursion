@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  display: block; 
+}
+
+/*universal*/
+
+body {
+  background-color: black;
+  color: white;
+  font-family: Verdana;
+  text-align: center;
+}
+
+/*header*/
+
+h1 {
+  margin: 15px 0;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+/*main*/
+
+/*section*/
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+video {
+  margin: 15px auto;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  margin: 15px 0;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+  margin: 25px 0;
+}
+
+img {
+margin: 0px auto;
+}
+
+/*footer*/
+
+footer p {
+text-align: right;
+margin-right: 10px;
+}
